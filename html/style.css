@@ -1,0 +1,62 @@
+body{
+  background: linear-gradient(#8F00FF, #9E1B32, #1560BD);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: 20px;
+  margin: 15px
+}
+
+h1 {
+  font-family: "Press Start 2P", "Exo", sans-serif;
+  position: relative;
+  top: 10px;
+}
+
+div{
+  font-family: "Exo", sans-serif;
+  top: 5px;
+}
+
+.burger {
+  font-size: 20px; 
+}
+
+.fries p {
+  font-size: smaller;
+}
+
+p{
+  border:5px solid;
+  width: 265px;
+  height: 20px;
+  border-radius: 5px;
+  margin-top: 170px;
+  margin-right: 990px;
+}
+
+p{
+  font-family: "Exo", sans-serif;
+}
+
+img{
+  border-radius: 10px;
+  position: relative;
+  top: 50px;
+  left: 5px;
+}
+
+.fa-github{
+  color: black;
+  font-size: 40px;
+  position: relative;
+  left: 1750px;
+  bottom: 65px;
+}
+
+.fa-bars{
+  color: black;
+  font-size: 40px;
+  position: relative;
+  bottom: 900px;
+  left: 1825px;
+}
