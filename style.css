@@ -26,6 +26,7 @@ div{
 }
 
 p{
+  font-family: "Exo", sans-serif;
   border:5px solid;
   width: 265px;
   height: 20px;
@@ -34,15 +35,11 @@ p{
   margin-right: 990px;
 }
 
-p{
-  font-family: "Exo", sans-serif;
-}
-
 img{
   border-radius: 10px;
   position: relative;
-  top: 50px;
-  left: 5px;
+  top: 25px;
+  left: 10px;
 }
 
 .fa-github{
@@ -59,4 +56,17 @@ img{
   position: relative;
   bottom: 900px;
   left: 1825px;
+}
+
+@media (orientation: portrait) {
+  .fa-bars {
+    left: 450px;
+    bottom: 952px;
+  }
+}
+
+@media (orientation: portrait) {}
+  .fa-github {
+    left: 410px; 
+    bottom: 50px;
 }
