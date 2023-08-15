@@ -54,14 +54,14 @@ img{
   color: black;
   font-size: 40px;
   position: relative;
-  bottom: 850px;
+  bottom: 825px;
   left: 1825px;
 }
 
 @media (orientation: portrait) {
   .fa-bars {
     left: 415px;
-    bottom: 890px;
+    bottom: 860px;
   }
 }
 
