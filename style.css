@@ -47,7 +47,7 @@ img{
   font-size: 40px;
   position: relative;
   left: 1750px;
-  bottom: 65px;
+  bottom: 40px;
 }
 
 .fa-bars{
@@ -61,14 +61,14 @@ img{
 @media (orientation: portrait) {
   .fa-bars {
     left: 415px;
-    bottom: 860px;
+    bottom: 880px;
   }
 }
 
 @media (orientation: portrait) {
   .fa-github {
-    left: 380px; 
-    bottom: 50px;
+    left: 375px; 
+    bottom: 48px;
   }
 }
 
