@@ -39,7 +39,7 @@ img{
   border-radius: 10px;
   position: relative;
   top: 25px;
-  left: 10px;
+  left: 2px;
 }
 
 .fa-github{
@@ -60,14 +60,26 @@ img{
 
 @media (orientation: portrait) {
   .fa-bars {
-    left: 430px;
-    bottom: 925px;
+    left: 415px;
+    bottom: 890px;
   }
 }
 
 @media (orientation: portrait) {
   .fa-github {
-    left: 410px; 
+    left: 400px; 
     bottom: 50px;
+  }
+}
+
+@media (orientation: portrait) {
+  h1{
+    font-size:x-large
+  }
+}
+
+@media (orientation: portrait) {
+  .burger{
+    font-size:larger
   }
 }
