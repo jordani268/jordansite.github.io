@@ -60,26 +60,25 @@ img{
 
 @media (orientation: portrait) {
   .fa-bars {
-    left: 10px;
-    bottom: 10px;
+    left: 320px;
+    bottom: 590px;
   }
 
   .fa-github {
-    left: 10px;
-    bottom: 10px;
+    left: 280px;
+    bottom: 50px;
   }
 
   h1 {
-    font-size: 20px;
+    font-size: 23px;
   }
 
   .burger {
-    font-size: 16px;
+    font-size: 19px;
   }
 
   img {
-    max-height: 270px;
-    max-width: 250px;
+    max-height: 300px;
+    max-width: 275px;
   }
 }
-
