@@ -74,20 +74,20 @@ img{
 
 @media (orientation: portrait) {
   h1{
-    font-size: 23px;
+    font-size: 16px;
   }
 }
 
 @media (orientation: portrait) {
   .burger{
-    font-size:19px
+    font-size:12px
   }
 }
 
 @media (orientation: portrait) {
   img {
-    max-height: 700px;
-    max-width: 450px;
+    max-height: 500px;
+    max-width: 350px;
   }
   
 }
