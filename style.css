@@ -61,7 +61,7 @@ img{
 @media (orientation: portrait) {
   .fa-bars {
     left: 320px;
-    bottom: 590px;
+    bottom: 735px;
   }
 
   .fa-github {
@@ -71,6 +71,7 @@ img{
 
   h1 {
     font-size: 23px;
+    top: 0.2px;
   }
 
   .burger {
@@ -78,7 +79,8 @@ img{
   }
 
   img {
-    max-height: 300px;
-    max-width: 275px;
+    max-height: 450px;
+    max-width: 365px;
   }
 }
+
