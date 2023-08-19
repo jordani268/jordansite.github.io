@@ -71,11 +71,11 @@ img{
 
   h1 {
     font-size: 23px;
-    top: 0.2px;
+    top: 10px;
   }
 
-  .burger {
-    font-size: 19px;
+  div {
+    top: 15px;
   }
 
   img {
