@@ -70,17 +70,16 @@ img{
   }
 
   h1 {
-    font-size: 17px;
+    font-size: 20px;
   }
 
   .burger {
-    font-size: 13.5px;
+    font-size: 16px;
   }
 
   img {
     max-height: 270px;
-    max-width: 230px;
+    max-width: 250px;
   }
 }
-
 
