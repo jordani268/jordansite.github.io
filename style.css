@@ -61,7 +61,7 @@ img{
 @media (orientation: portrait) {
   .fa-bars {
     left: 330px;
-    bottom: 755px;
+    bottom: 750px;
   }
 
   .fa-github {
