@@ -42,7 +42,7 @@ img{
   left: 1px;
 }
 
-.fa-github{
+fa-github{
   color: black;
   font-size: 40px;
   position: relative;
@@ -50,7 +50,7 @@ img{
   bottom: 40px;
 }
 
-.fa-bars{
+fa-bars{
   color: black;
   font-size: 40px;
   position: relative;
@@ -59,12 +59,12 @@ img{
 }
 
 @media (orientation: portrait) {
-  .fa-bars {
+  fa-bars {
     left: 320px;
     bottom: 735px;
   }
 
-  .fa-github {
+  fa-github {
     left: 280px;
     bottom: 50px;
   }
@@ -84,4 +84,3 @@ img{
     left: 0.5px;
   }
 }
-
